@@ -4,6 +4,9 @@
 The application implemented using Golang which inspects whether the website is UP/DOWN and then opens it.
 Also the application has been dockerized.
 
+## Demo
+[Screencast from 2024-03-08 09-33-43.webm](https://github.com/anirudh-hegde/webhealth-inspect/assets/105560839/0c91f921-3562-4a7d-991a-7ed2f46d3340)
+
 ## Requirements
 - Golang
 - IDE (VSCode)
