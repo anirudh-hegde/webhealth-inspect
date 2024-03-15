@@ -6,6 +6,8 @@
     <img src="https://img.shields.io/github/license/anirudh-hegde/webhealth-inspect?color=brightgreen" />
 </a>
 </p>
+<h5><p align="center"><i>If you like the project, please ⭐ this repository to show your support! 🤩</i></p></h5>
+  
 
 ## Intro
 The application implemented using Golang which inspects whether the website is UP/DOWN and then opens it.
