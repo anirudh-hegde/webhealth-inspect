@@ -1,7 +1,9 @@
 <p style="text-align:center;" align="center">
   <img src="https://github.com/anirudh-hegde/webhealth-inspect/assets/105560839/766f096f-0f83-4c29-a4eb-dd2ab6c5898d"width="700px" height="400px">
+  <a href="https://github.com/anirudh-hegde/webhealth-inspect/blob/main/LICENSE" alt="LICENSE">
+    <img src="https://img.shields.io/github/license/anirudh-hegde/webhealth-inspect?color=brightgreen" />
+  </a>
 </p>
-
 
 ## Intro
 The application implemented using Golang which inspects whether the website is UP/DOWN and then opens it.
